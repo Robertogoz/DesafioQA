@@ -21,4 +21,10 @@ To run this project, enter in /tests/ directory and use in your terminal:
 * `cucumber`
 * `cucumber -t @CenarioCompleto`
 
+## Report screenshot
+
+<img src="https://github.com/Robertogoz/DesafioQA/blob/master/tests/report/screenshots/form%20print.png">
+
+
+
 
