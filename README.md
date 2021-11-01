@@ -6,11 +6,11 @@ A BDD Project that i learn to code automized tests using Cucumber/Capybara in Ru
 
 You need to install: 
 
-* Google Chrome
+* Google Chrome - https://www.google.com/intl/pt-BR/chrome/
 
 * Clone this repository
 
-* Ruby + Devkit(1,2,3) 3.0.2
+* Ruby + Devkit(1,2,3) 3.0.2 - https://rubyinstaller.org/downloads/
 
 * bundler - Use these commands below on your terminal
   * `gem install bundler`
