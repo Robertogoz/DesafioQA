@@ -8,6 +8,9 @@ You need to install:
 
 * Google Chrome - https://www.google.com/intl/pt-BR/chrome/
 
+* chromedriver - http://chromedriver.chromium.org/downloads
+  * put chromedriver.exe inside C:/Windows
+
 * Clone this repository
 
 * Ruby + Devkit(1,2,3) 3.0.2 - https://rubyinstaller.org/downloads/
