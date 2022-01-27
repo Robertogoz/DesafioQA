@@ -1,6 +1,6 @@
 # DesafioQA
 
-A BDD Project that i learn to code automized tests using Cucumber/Capybara in Ruby lang
+A BDD Project that i learn to code automized tests using Cucumber/Capybara using Ruby 
 
 ## How to use
 
